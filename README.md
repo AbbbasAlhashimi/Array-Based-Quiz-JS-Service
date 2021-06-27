@@ -21,6 +21,6 @@ The JavaScript Consists of a Single JS file broacken into 3 files for a clean an
 </ul>
 
  <br>
- The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/vYxPqdO]
+ The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/vYxPqdO]<br>
 Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/] <br>
 Kind regards
